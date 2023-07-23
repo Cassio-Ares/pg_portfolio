@@ -1,0 +1,157 @@
+body{
+    margin: 0 rem;
+    padding: 0 rem;
+    font-family: 'Poppins';
+    margin-left: 10rem;
+    margin-right: 10rem;
+  
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+header h1{
+    font-size: 1.75rem;
+    text-decoration-line: underline;
+    margin-top: 2.5rem;
+}
+
+header ul{
+    margin-top: 3.06rem;
+    display: flex;  
+    list-style: none;   
+}
+
+header ul li a{
+    text-decoration: none;
+    color: black;
+    margin: 0.65rem;
+}
+
+main{
+    display: flex;
+    justify-content: space-between;
+}
+
+main img{
+    width: 45%;
+    border-radius: 20px;
+    margin-top: 5rem;
+}
+
+main h1{
+    font-size: 3rem;
+    font-style: normal;
+    font-weight: 700;
+    margin-top: 7rem;
+}
+
+main p{
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+button{
+    background-color:rgba(31, 124, 255, 1);
+    color: white;
+    width: 11.25rem;
+    height: 2.5rem;
+    border-radius: 3rem;
+    border: 0;
+    margin-top: rem;
+}
+button:hover{
+    background-color:rgb(22, 85, 173);
+}
+
+#clientes{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+
+#text_central{
+    text-align: center;
+    margin-top: 4rem;
+}
+
+#text_central h4{
+    color: #F75C4E;
+    font-size: 1rem;
+    font-weight: 700; 
+}
+#text_central h2{
+    color: #000;
+    font-size: 2.25rem;
+    font-weight: 700;
+}
+
+#meu_serviços{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 6rem;
+}
+
+#contato{
+    display: flex;
+    margin-top: 5rem;
+}
+
+#contato img{
+    border-radius: 10px;
+    width: 53%;
+}
+
+#text_input{
+    padding-left: 4rem;
+} 
+
+#text_input h3{
+    color: #F75C4E;
+    font-size: 1rem;
+    font-weight: 700;
+}
+#text_input h1{
+    color: #000;
+    font-size: 2.25rem;
+    font-weight: 700;
+}
+
+#text_input input{
+    width: 25.375rem;
+    height: 3rem;
+    border-radius: 3rem;
+    margin-bottom: 0.6rem;
+    border: 0;
+    background-color:#e6eafc; 
+    padding-left: 0.8rem;
+}
+
+footer{
+    margin-top: 7rem;
+}
+
+footer h3{
+    color: #F75C4E;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+footer h2{
+    color: #000;
+    font-size: 2.25rem;
+    font-weight: 700;
+}
+
+#footer_img{
+    margin-bottom: 5rem;
+    display: grid;
+    grid-auto-flow: column;
+}
+
+footer img:hover{
+    box-shadow: 0.3rem  0.3rem 0.3rem 0.3rem rgb(22, 85, 173);
+}
