@@ -1,6 +1,6 @@
 # Portfólio Pratica
 
-Este é um projeto de portfólio pessoal desenvolvido para praticar habilidades em HTML, CSS (especialmente Grid) e JavaScript.
+Este é um projeto de portfólio pessoal desenvolvido para praticar habilidades em HTML, CSS (especialmente Grid).
 
 O site final pode ser acessado [aqui](https://poetic-hummingbird-fbcb2e.netlify.app/).
 
@@ -12,7 +12,6 @@ Este projeto foi desenvolvido com base no design disponível no Figma. O design 
 
 - HTML
 - CSS (Grid)
-- JavaScript
 
 ## Como Usar
 
